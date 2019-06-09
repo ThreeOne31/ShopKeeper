@@ -1,0 +1,30 @@
+[
+    {
+        "id":"6007414004376",
+        "category": "Milk",
+        "description":"Fair Cape Full Cream",
+        "size": "1L",
+        "price" : 11.00
+    },
+    {
+        "id":"6006375000991",
+        "category": "Biscuits",
+        "description":"Ginger Biscuits",
+        "size": "250g",
+        "price" : 12.00
+    },
+    {
+        "id":"6001069601096",
+        "category": "Mayonnaise",
+        "description":"Nola Ultra creamy",
+        "size": "730g",
+        "price" : 20.00
+    },
+    {
+        "id":"6001069601096",
+        "category": "",
+        "description":"",
+        "size": "730g",
+        "price" : 20.00
+    }
+]
